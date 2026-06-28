@@ -56,7 +56,7 @@ export const AUDIT_ACTIONS = ['VERIFIED', 'FLAGGED', 'REJECTED', 'REQUESTED_INFO
 
 export const COMPANY_SIZES = ['SMALL', 'MEDIUM', 'LARGE', 'ENTERPRISE'];
 
-export const API_BASE = 'http://localhost:8080';
+export const API_BASE = 'https://sustainability-tracker-production.up.railway.app';
 
 export const CO2_WARNING_THRESHOLD = 10000;
 
